@@ -1,4 +1,4 @@
-package com.ams.data.configuration;
+/*package com.ams.data.configuration;
 
 import com.zaxxer.hikari.*;
 
@@ -17,4 +17,4 @@ public class DatabaseConfig {
 		config.setJdbcUrl(dbUrl);
 		return new HikariDataSource(config);
 	}
-}
+}*/
